@@ -1,5 +1,3 @@
-## Olá, Eu sou Daniel Mathias 👋
-
-
-- 🔭 Atualmente faço estagio como desenvolvedor na TerraZoo🐾...
-- 🌱 Estou aprendendo diversas linguagens e soft skills, como Java, Spring, Php......
+ ## Olá, Eu sou Daniel Mathias 👋
+ 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
